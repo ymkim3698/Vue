@@ -11,10 +11,10 @@
 > 1. Vetur
 > 2. HTML CSS Support
 > 3. Vue 3 Snippets
-2. VS Code -> 터미널
+3. VS Code -> 터미널
 * `node --version, npm --version`
-3. `npm install -g @vue/cli`
-4. `vue create my-app`
+4. `npm install -g @vue/cli`
+5. `vue create my-app`
 * 방향키로 Vue3 선택 후 Enter
 
 ## 서버 시작
